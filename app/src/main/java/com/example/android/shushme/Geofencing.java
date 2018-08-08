@@ -18,7 +18,6 @@ import com.google.android.gms.location.places.PlaceBuffer;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.example.android.shushme.MainActivity.TAG;
 
 public class Geofencing implements ResultCallback{
 
